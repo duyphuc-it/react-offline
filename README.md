@@ -1,6 +1,6 @@
 # React + TypeScript + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules. It has been configured as a Progressive Web App so the bundled site can be installed and will continue to work offline once cached.
 
 Currently, two official plugins are available:
 
